@@ -2,9 +2,11 @@ Code Refactor Assignment
 
  The goal of this assignment was to refactor code for an existing webpage. Refactoring code is the process of simplifying and cleaning up existing code without hindering the behavior of the webpage. Along with simplifying and cleaning up bugs in the code I aimed to make it more accessible  for people with disabilities to access the website.
 
- In order to clean up the code I switched out the multiple, repetitive <div> tags and included semantic html tags that better conveyed the structure of the website. 
-
  The first link on the navigation bar was not linking to the designated SEO part of the webpage. This was updated using an id attribute. Now when clicked, the Search Engine Optimization button in the navigation bar links the user to the Search Engine Optimization section of the webpage.
+ 
+ For example: clicking <img width="266" alt="Screen Shot 2020-11-06 at 3 03 25 PM" src="https://user-images.githubusercontent.com/71091515/98415653-4b1cac00-2043-11eb-96e2-5d96f7129ef1.png">
+ 
+ Will now lead user to this designated spot on the webpage: <img width="926" alt="Screen Shot 2020-11-06 at 3 04 06 PM" src="https://user-images.githubusercontent.com/71091515/98415780-861edf80-2043-11eb-8eaf-2a13d7b0ccec.png">
  
  Other changes to the html included adding descriptive alt attributes to images to allow better accessibility to users utilizing a screen reader. I checked to make sure that the "keyboard focus" is responsive and in working order for navigating the website using the tab key. 
 
