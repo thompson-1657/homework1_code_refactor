@@ -1,6 +1,8 @@
 Code Refactor Assignment
 
  The goal of this assignment was to refactor code for an existing webpage. Refactoring code is the process of simplifying and cleaning up existing code without hindering the behavior of the webpage. Along with simplifying and cleaning up bugs in the code I aimed to make it more accessible  for people with disabilities to access the website.
+ 
+ In the html I substituted semantic html tags in order to more accrurately convey the structure and function of the webpage and its components. This corrected the repatativeness of the div tags and allowed the tags present to serve a purpose as opposed to being a placeholder.
 
  The first link on the navigation bar was not linking to the designated SEO part of the webpage. This was updated using an id attribute. Now when clicked, the Search Engine Optimization button in the navigation bar links the user to the Search Engine Optimization section of the webpage.
  
