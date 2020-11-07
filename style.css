@@ -90,13 +90,9 @@ p {
     color: #ffffff;
 }
 
-.benefits h3 {
-    margin-bottom: 20px;
-    text-align: center;
-}
-
 h3{
     margin-top: 30px;
+    text-align: center;
 }
 
 .benefits img {
